@@ -26,4 +26,5 @@ The main objective of this project is to create a tool that simplifies the grade
 **Conclusion:**
 Developing the Grade Calculator in Python has been a rewarding experience, allowing me to apply my programming skills to solve a practical problem. This project not only demonstrates my proficiency in Python but also showcases my ability to design and implement an effective software solution. It serves as a valuable addition to my internship portfolio, highlighting my dedication to delivering reliable and user-centric applications.
 
- 
+
+ ![Screenshot 2024-06-30 225218](https://github.com/Siddhu570/CODETECH-Task1/assets/174267433/69b5ff27-dc93-4e16-bb65-138c826e5ab2)
